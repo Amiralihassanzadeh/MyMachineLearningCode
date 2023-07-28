@@ -1,4 +1,7 @@
 
+#Adaline clssifier implementaion using for loop 
+
+
 import numpy as np 
 
 class adalineGD(object) : 
